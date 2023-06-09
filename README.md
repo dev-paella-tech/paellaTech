@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=paellaTech&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views : </h3> <img src="https://komarev.com/ghpvc/?username=dev-paella-tech&label=Profile%20views&color=0e75b6&style=flat"
     alt="paellaTech" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="paellaTech" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="dev-paella-tech" /></p>
 
 
 - 👨‍🚀 Currently exploring IT solutions with a cloud-based mindset
@@ -72,18 +72,18 @@
 
 <h3>Statistical Data:</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=paellaTech&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="paellaTech" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-paella-tech&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="dev-paella-tech" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paellaTech&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-paella-tech&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="paellaTech" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paellaTech&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-paella-tech&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dev-paella-tech" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
